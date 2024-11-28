@@ -46,3 +46,5 @@ print('O valor arredondado de pi é: {:.2f}'.format(pi))
 
 # Utilizando a função round()
 print('O valor arredondado de pi é:', round(pi, 2))
+
+
