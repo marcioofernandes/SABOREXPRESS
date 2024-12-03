@@ -1,3 +1,19 @@
+#Fundamentos While 
+
+print ("Inicio do programa")
+cont = 1 
+while cont <= 8: 
+    print (cont)
+    cont = cont + 1 
+print ("Fim do programa")
+
+
+
+
+
+
+
+
 
 
 x = 1
